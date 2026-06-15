@@ -1,0 +1,69 @@
+{
+  "cookies": [
+    {
+      "name": "user_image",
+      "value": "",
+      "domain": "education-v2.klaimify.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sid",
+      "value": "91a7fe3939eaf971bcad904b49ed7b8f55a9f075e1bfd81fe37a3e24",
+      "domain": "education-v2.klaimify.in",
+      "path": "/",
+      "expires": 1781035114.742494,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "system_user",
+      "value": "yes",
+      "domain": "education-v2.klaimify.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "full_name",
+      "value": "Administrator",
+      "domain": "education-v2.klaimify.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_id",
+      "value": "Administrator",
+      "domain": "education-v2.klaimify.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://education-v2.klaimify.in",
+      "localStorage": [
+        {
+          "name": "branchMaster",
+          "value": "[{\"id\":\"branch-1\",\"name\":\"Sanskar School - Chandigarh\",\"code\":\"CHD\",\"city\":\"Chandigarh\",\"state\":\"Chandigarh\",\"phone\":\"+91 172 2700001\",\"principal\":\"Dr. Anita Sharma\",\"isActive\":true},{\"id\":\"branch-2\",\"name\":\"Sanskar School - Mohali\",\"code\":\"MOH\",\"city\":\"Mohali\",\"state\":\"Punjab\",\"phone\":\"+91 172 2700002\",\"principal\":\"Mr. Rajesh Kumar\",\"isActive\":true},{\"id\":\"branch-3\",\"name\":\"Sanskar School - Panchkula\",\"code\":\"PKL\",\"city\":\"Panchkula\",\"state\":\"Haryana\",\"phone\":\"+91 172 2700003\",\"principal\":\"Mrs. Priya Gupta\",\"isActive\":true}]"
+        },
+        {
+          "name": "orgContext",
+          "value": "{\"branchId\":\"branch-1\",\"yearId\":\"1\"}"
+        }
+      ]
+    }
+  ]
+}
